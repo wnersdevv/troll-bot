@@ -1,0 +1,74 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#141327"/>
+      <stop offset="100%" stop-color="#1f1a3d"/>
+    </linearGradient>
+    <linearGradient id="c1" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#ff6ec4"/><stop offset="100%" stop-color="#7873f5"/></linearGradient>
+    <linearGradient id="c2" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#4adede"/><stop offset="100%" stop-color="#3a8bfd"/></linearGradient>
+    <linearGradient id="c3" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#ffd76e"/><stop offset="100%" stop-color="#ff8a5c"/></linearGradient>
+    <linearGradient id="c4" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#8affc1"/><stop offset="100%" stop-color="#33c481"/></linearGradient>
+    <linearGradient id="c5" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#c58cff"/><stop offset="100%" stop-color="#7c4dff"/></linearGradient>
+    <linearGradient id="c6" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#ff8ac2"/><stop offset="100%" stop-color="#ff5c8a"/></linearGradient>
+  </defs>
+
+  <rect width="1200" height="260" rx="20" fill="url(#fbg)"/>
+
+  <!-- 6 cards, 190x180 each, spaced -->
+  <g font-family="Verdana, Arial, sans-serif">
+    <!-- card template repeated -->
+    <g>
+      <rect x="30" y="30" width="180" height="200" rx="18" fill="#ffffff" fill-opacity="0.04" stroke="url(#c1)" stroke-width="1.5"/>
+      <circle cx="120" cy="90" r="30" fill="url(#c1)" fill-opacity="0.18"/>
+      <text x="120" y="102" font-size="34" text-anchor="middle">💰</text>
+      <text x="120" y="150" font-size="17" font-weight="bold" fill="#ffffff" text-anchor="middle">Ekonomi</text>
+      <text x="120" y="174" font-size="12.5" fill="#b7b3e6" text-anchor="middle">Cep + Banka</text>
+      <text x="120" y="192" font-size="12.5" fill="#b7b3e6" text-anchor="middle">Atomik islemler</text>
+    </g>
+
+    <g>
+      <rect x="220" y="30" width="180" height="200" rx="18" fill="#ffffff" fill-opacity="0.04" stroke="url(#c2)" stroke-width="1.5"/>
+      <circle cx="310" cy="90" r="30" fill="url(#c2)" fill-opacity="0.18"/>
+      <text x="310" y="102" font-size="34" text-anchor="middle">🎮</text>
+      <text x="310" y="150" font-size="17" font-weight="bold" fill="#ffffff" text-anchor="middle">Mini Oyunlar</text>
+      <text x="310" y="174" font-size="12.5" fill="#b7b3e6" text-anchor="middle">8 farkli oyun</text>
+      <text x="310" y="192" font-size="12.5" fill="#b7b3e6" text-anchor="middle">Galibiyet serisi</text>
+    </g>
+
+    <g>
+      <rect x="410" y="30" width="180" height="200" rx="18" fill="#ffffff" fill-opacity="0.04" stroke="url(#c3)" stroke-width="1.5"/>
+      <circle cx="500" cy="90" r="30" fill="url(#c3)" fill-opacity="0.18"/>
+      <text x="500" y="102" font-size="34" text-anchor="middle">🎁</text>
+      <text x="500" y="150" font-size="17" font-weight="bold" fill="#ffffff" text-anchor="middle">Market &amp; Kasa</text>
+      <text x="500" y="174" font-size="12.5" fill="#b7b3e6" text-anchor="middle">7 rarity seviyesi</text>
+      <text x="500" y="192" font-size="12.5" fill="#b7b3e6" text-anchor="middle">Agirlikli RNG</text>
+    </g>
+
+    <g>
+      <rect x="600" y="30" width="180" height="200" rx="18" fill="#ffffff" fill-opacity="0.04" stroke="url(#c4)" stroke-width="1.5"/>
+      <circle cx="690" cy="90" r="30" fill="url(#c4)" fill-opacity="0.18"/>
+      <text x="690" y="102" font-size="34" text-anchor="middle">🖼️</text>
+      <text x="690" y="150" font-size="17" font-weight="bold" fill="#ffffff" text-anchor="middle">Canvas Kartlari</text>
+      <text x="690" y="174" font-size="12.5" fill="#b7b3e6" text-anchor="middle">Profil karti</text>
+      <text x="690" y="192" font-size="12.5" fill="#b7b3e6" text-anchor="middle">Liderlik karti</text>
+    </g>
+
+    <g>
+      <rect x="790" y="30" width="180" height="200" rx="18" fill="#ffffff" fill-opacity="0.04" stroke="url(#c5)" stroke-width="1.5"/>
+      <circle cx="880" cy="90" r="30" fill="url(#c5)" fill-opacity="0.18"/>
+      <text x="880" y="102" font-size="34" text-anchor="middle">🏆</text>
+      <text x="880" y="150" font-size="17" font-weight="bold" fill="#ffffff" text-anchor="middle">Prestij &amp; Unvan</text>
+      <text x="880" y="174" font-size="12.5" fill="#b7b3e6" text-anchor="middle">Seviye 100 atlama</text>
+      <text x="880" y="192" font-size="12.5" fill="#b7b3e6" text-anchor="middle">Rozet + Basari</text>
+    </g>
+
+    <g>
+      <rect x="980" y="30" width="190" height="200" rx="18" fill="#ffffff" fill-opacity="0.04" stroke="url(#c6)" stroke-width="1.5"/>
+      <circle cx="1075" cy="90" r="30" fill="url(#c6)" fill-opacity="0.18"/>
+      <text x="1075" y="102" font-size="34" text-anchor="middle">🗄️</text>
+      <text x="1075" y="150" font-size="17" font-weight="bold" fill="#ffffff" text-anchor="middle">MongoDB</text>
+      <text x="1075" y="174" font-size="12.5" fill="#b7b3e6" text-anchor="middle">16 model</text>
+      <text x="1075" y="192" font-size="12.5" fill="#b7b3e6" text-anchor="middle">Idempotent seed</text>
+    </g>
+  </g>
+</svg>

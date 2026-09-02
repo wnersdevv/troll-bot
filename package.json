@@ -1,0 +1,21 @@
+{
+  "name": "wnersdev-troll",
+  "version": "1.0.0",
+  "description": "wnersdev Troll - Slash-only, MongoDB destekli, Components V2 kullanan eglence Discord botu",
+  "main": "wnersdev.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node wnersdev.js",
+    "dev": "node --watch wnersdev.js",
+    "deploy": "node src/handlers/deployCommands.js"
+  },
+  "author": "wnersdev",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "mongoose": "^8.7.0",
+    "dotenv": "^16.4.5",
+    "canvas": "^2.11.2",
+    "chalk": "^4.1.2"
+  }
+}

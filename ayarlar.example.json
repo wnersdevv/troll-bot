@@ -1,0 +1,61 @@
+{
+  "bot": {
+    "name": "wnersdev Troll",
+    "version": "1.0.0",
+    "developer": "wnersdev",
+    "language": "tr",
+    "prefix": "YOK"
+  },
+
+  "discord": {
+    "token": "",
+    "clientId": "",
+    "guildId": "",
+    "supportServer": "https://discord.gg/wnerscode"
+  },
+
+  "database": {
+    "mongodb": ""
+  },
+
+  "features": {
+    "troll": true,
+    "games": true,
+    "economy": true,
+    "quests": true,
+    "achievements": true,
+    "canvas": true
+  },
+
+  "economy": {
+    "dailyMin": 50,
+    "dailyMax": 150,
+    "dailyStreakBonus": 10,
+    "startingBalance": 100
+  },
+
+  "cooldowns": {
+    "trollSaniye": 10,
+    "sakaSaniye": 5,
+    "oyunSaniye": 8,
+    "gunlukSaat": 24
+  },
+
+  "limits": {
+    "rateLimitWindowMs": 10000,
+    "rateLimitMaxRequests": 8
+  },
+
+  "emojis": {
+    "troll": "🤡",
+    "coin": "🪙",
+    "success": "✅",
+    "error": "❌",
+    "loading": "⏳",
+    "star": "⭐",
+    "fire": "🔥",
+    "trophy": "🏆"
+  },
+
+  "developers": []
+}

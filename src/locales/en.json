@@ -1,0 +1,20 @@
+{
+  "genel": {
+    "hataBaslik": "An error occurred",
+    "cooldownMesaj": "Wait {saniye} seconds before using this command again.",
+    "yetkisiz": "You don't have permission to do this.",
+    "sadeceGelistirici": "This command can only be used by bot developers.",
+    "destekButon": "💬 Support Server",
+    "yukleniyor": "Loading..."
+  },
+  "ekonomi": {
+    "bakiyeYetersiz": "You don't have enough {coin}.",
+    "kendineGonderemezsin": "You can't send coins to yourself.",
+    "gunlukAlindi": "You already claimed today's reward. Come back in {saat} hours.",
+    "gunlukBasarili": "Your daily reward: {miktar} {coin} (streak: {streak})"
+  },
+  "troll": {
+    "panelBaslik": "🤡 wnersdev TROLL CENTER",
+    "hedefKendisi": "You can't target yourself, at least not like this :)"
+  }
+}

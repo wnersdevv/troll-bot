@@ -1,0 +1,20 @@
+{
+  "genel": {
+    "hataBaslik": "Bir hata olustu",
+    "cooldownMesaj": "Bu komutu tekrar kullanmadan once {saniye} saniye bekle.",
+    "yetkisiz": "Bu islemi yapma yetkin yok.",
+    "sadeceGelistirici": "Bu komut sadece bot gelistiricileri tarafindan kullanilabilir.",
+    "destekButon": "💬 Destek Sunucusu",
+    "yukleniyor": "Yukleniyor..."
+  },
+  "ekonomi": {
+    "bakiyeYetersiz": "Yeterli {coin} bulunmuyor.",
+    "kendineGonderemezsin": "Kendine coin gonderemezsin.",
+    "gunlukAlindi": "Bugunku odulunu zaten aldin. Tekrar {saat} saat sonra gel.",
+    "gunlukBasarili": "Gunluk odulun: {miktar} {coin} (streak: {streak})"
+  },
+  "troll": {
+    "panelBaslik": "🤡 wnersdev TROLL MERKEZI",
+    "hedefKendisi": "Kendini hedef secemezsin, en azindan bunu boyle secme :)"
+  }
+}
