@@ -1,20 +1,4 @@
 'use strict';
-
-/**
- * wnersdev.js — wnersdev Troll botunun ana giris dosyasi (bootstrap).
- *
- * Bu dosya SADECE baslangic sirasini yonetir:
- *   1) Ayarlari dogrula
- *   2) Discord Client'i olustur
- *   3) MongoDB'ye baglan
- *   4) Event ve komut handler'larini yukle
- *   5) Dashboard'u baslat (aktifse)
- *   6) Hata yonetimi / graceful shutdown kur
- *   7) Discord'a giris yap
- *
- * Calistirmak icin: node wnersdev.js
- */
-
 const chalk = require('chalk');
 const { Client, GatewayIntentBits, Partials, Collection } = require('discord.js');
 
